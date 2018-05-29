@@ -1,0 +1,6 @@
+[package]
+name = "intervalTree"
+version = "0.1.0"
+authors = ["lukasz"]
+
+[dependencies]
